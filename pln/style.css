@@ -1,0 +1,31 @@
+/* Gaya Font */
+body {
+    font-family: 'Righteous', sans-serif; /* Gunakan font 'Righteous' dari Google Fonts */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center; /* Membuat elemen sejajar secara vertikal */
+}
+
+.navbar-brand img {
+    margin-right: 10px; /* Memberi jarak antara logo dan teks */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: whitesmoke;
+    color: black;
+}
+.card-header{
+    color: black;
+    font-size: 18px;
+}
+.card-text{
+    font-size: 12px;
+    color: black;
+}
+.form{
+    content:initial;
+}
